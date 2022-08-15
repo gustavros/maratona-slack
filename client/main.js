@@ -1,4 +1,3 @@
-import { uuidv4 } from "@firebase/util";
 import axios from "axios";
 
 const email = document.getElementById("email");
