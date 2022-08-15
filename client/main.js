@@ -20,7 +20,7 @@ function handleWithNewSubscription() {
   }
 
   axios
-    .post("http://localhost:3000/subscriptions", {
+    .post("https://maratona-slack.herokuapp.com/subscriptions", {
       name: name.value,
       email: email.value,
     })
