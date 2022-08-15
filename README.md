@@ -22,7 +22,7 @@ O projeto ainda está em desenvolvimento e penso em atualizar com as seguintes m
 - [x] Ajustar o código para o funcionamento do site em dispositivos móveis
 - [x] Ajustar o código para o funcionamento do site em dispositivos desktops
 - [x] Integração do Firebase como bando de dados para armazenar emails e nomes
-- [ ] Validação de email direto do back
+- [x] Validação de email direto do back
 - [ ] Dark theme
 
 ## 💻 Techs e libs usadas
@@ -30,7 +30,7 @@ O projeto ainda está em desenvolvimento e penso em atualizar com as seguintes m
 - [JavaScript](https://www.javascript.com/)
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Firebase](https://firebase.google.com/)
+- [MYSQL](https://www.mysql.com/)
 - [Toastify](https://apvarun.github.io/toastify-js/)
 
 > Também usei o Prettier para ajudar na formatação.
