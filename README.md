@@ -35,4 +35,4 @@ O projeto ainda está em desenvolvimento e penso em atualizar com as seguintes m
 
 > Também usei o Prettier para ajudar na formatação.
 
-[⬆ Voltar ao topo](#Corrida)<br>
+[⬆ Voltar ao topo](#Maratona-Slack)<br>
