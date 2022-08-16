@@ -20,7 +20,7 @@ function handleWithNewSubscription() {
   }
 
   axios
-    .post(`${import.meta.env.VITE_URL}/subscriptions`, {
+    .post(`https://maratona-slack.herokuapp.com/subscriptions`, {
       name: name.value,
       email: email.value,
     })
